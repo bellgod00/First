@@ -5,5 +5,15 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://D:/00.내파일/01.회사폴더/03.유지보수관련/dd.UpChain_QBit/00.교육자료/wallet_lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://D:/00.내파일/01.회사폴더/03.유지보수관련/dd.UpChain_QBit/00.교육자료/wallet_lib" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
